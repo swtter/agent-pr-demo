@@ -1,2 +1,3 @@
-# agent-pr-demo
-A demo of AI agents opening PRs with human review
+## How it works
+1. An AI agent opens a pull request
+2. A human reviews it before merging
